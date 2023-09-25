@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Just a regular UniPD CS student with great ambitions for the future</h3>
+<h3 align="center">Graduated in CS at UniPD with great ambitions for the future</h3>
 
 - 📫 How to reach me **scarabottolo72@gmail.com**
 
